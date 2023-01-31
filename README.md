@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashantc96
 - 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning html,css,javascript
+- 🌱 HTML,CSS,JAVASCRIPT,BOOTSTRAP,NODEJS,C# .. 
 - 📫  Reach me on email- prashantc634@gmail.com
 
 <!---
